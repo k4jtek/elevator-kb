@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "C:/Users/kajtek/Documents/GitHub/elevator-kb/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/kajtek/Documents/GitHub/elevator-kb/42keebs-kicad/footprints")(options "")(descr ""))
+)
